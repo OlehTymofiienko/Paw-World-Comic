@@ -1,0 +1,23 @@
+{
+  "project": "Paw World",
+  "version": "1.0",
+  "format": "PDF",
+  "page_size": "A4 portrait",
+  "status": "metadata uploaded; PDF upload pending",
+  "pdfs": [
+    {
+      "file": "books/Paw_World_Original_v1.0.pdf",
+      "edition": "Original / Оригінал",
+      "pages": 18,
+      "bytes": 25784531,
+      "sha256": "14f64ea431958cb4681349c4af2e2683038a86df3f861eb1f4c2870cb7355399"
+    },
+    {
+      "file": "books/Paw_World_English_v1.0.pdf",
+      "edition": "English first translated edition",
+      "pages": 18,
+      "bytes": 19076513,
+      "sha256": "195dd2cdba0fec200e8109062dc6797d0d130e9e6ef708b6698dc7136c8e4e8d"
+    }
+  ]
+}
