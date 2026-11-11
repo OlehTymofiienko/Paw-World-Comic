@@ -3,16 +3,14 @@
   "version": "1.0",
   "format": "PDF",
   "page_size": "A4 portrait",
-  "status": "metadata ready; PDF files awaiting manual browser upload",
+  "status": "original uploaded; English PDF pending upload",
   "pdfs": [
     {
       "file": "books/Paw_World_Original_v1.0.pdf",
       "edition": "Original / Оригінал",
       "pages": 18,
-      "bytes": 23422517,
-      "sha256": "e52b1f55c1dd602446c9856df64a23692138e654d68eafe315a7dcfe8b92cb60",
-      "note": "Web upload version: page 17 image JPEG-optimized; same page count and layout as approved master (25,784,531 bytes).",
-      "approved_master_sha256": "14f64ea431958cb4681349c4af2e2683038a86df3f861eb1f4c2870cb7355399"
+      "bytes": 25784531,
+      "sha256": "14f64ea431958cb4681349c4af2e2683038a86df3f861eb1f4c2870cb7355399"
     },
     {
       "file": "books/Paw_World_English_v1.0.pdf",
