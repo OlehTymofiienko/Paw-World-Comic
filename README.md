@@ -11,9 +11,9 @@ An illustrated educational comic for children about friendship, adventures, disc
 | Original (Ukrainian, with a Russian-language calendar page) | [Paw World — Original v1.0](books/Paw_World_Original_v1.0.pdf) | 18 | PDF, A4 |
 | English (first translated edition) | [Paw World — English v1.0](books/Paw_World_English_v1.0.pdf) | 18 | PDF, A4 |
 
-**Publication status:** The original edition is uploaded. The English PDF is pending upload to `books/`. The links above will work once both files are available.
+**Publication status:** Both 18-page PDF editions are uploaded and verified in `books/`. File content matches the approved originals (Git blob IDs and SHA-256 checksums verified).
 
-**Статус публікації:** Оригінал уже завантажено. Англомовне видання ще потрібно додати до папки `books/`.
+**Статус публікації:** Обидва PDF-видання (по 18 сторінок) завантажено до `books/` та перевірено за контрольними сумами.
 
 ## Contents / Зміст
 
