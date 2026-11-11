@@ -3,7 +3,7 @@
   "version": "1.0",
   "format": "PDF",
   "page_size": "A4 portrait",
-  "status": "original uploaded; English PDF pending upload",
+  "status": "both editions uploaded and Git blob content verified",
   "pdfs": [
     {
       "file": "books/Paw_World_Original_v1.0.pdf",
