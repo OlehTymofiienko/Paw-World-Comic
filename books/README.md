@@ -1,14 +1,15 @@
-# Book files / Файли книжок
+# Book files / Файли книжок / 書籍ファイル
 
-Both 18-page A4 books have been uploaded successfully and verified against the approved files.
+Three 18-page A4 editions of Paw World are listed below.
 
-| Edition | PDF | Size |
+| Edition | PDF | Expected size (bytes) |
 |---|---|---:|
-| Original / Оригінал | [Paw_World_Original_v1.0.pdf](Paw_World_Original_v1.0.pdf) | 25,784,531 bytes |
-| English (first translated edition) | [Paw_World_English_v1.0.pdf](Paw_World_English_v1.0.pdf) | 19,076,513 bytes |
+| Original / Оригінал | [Paw_World_Original_v1.0.pdf](Paw_World_Original_v1.0.pdf) | 25,784,531 |
+| English — first translated edition | [Paw_World_English_v1.0.pdf](Paw_World_English_v1.0.pdf) | 19,076,513 |
+| Japanese / 日本語 | [Paw_World_Japanese_v1.0.pdf](Paw_World_Japanese_v1.0.pdf) | 24,686,125 |
 
-The file content matches the approved PDFs. See [SHA256SUMS.txt](../SHA256SUMS.txt) and [BOOK_MANIFEST.json](../BOOK_MANIFEST.json) for the exact SHA-256 checksums.
+The original and English PDFs were previously verified. The Japanese entry records the expected bytes and hash of the owner-supplied compilation; confirm that the file is present and matches before public release.
 
-**Note:** The English edition is a first translated edition. Small printed labels and illustrations may need a later editorial pass.
+See [SHA256SUMS.txt](../SHA256SUMS.txt) and [BOOK_MANIFEST.json](../BOOK_MANIFEST.json) for file integrity information. Translated editions should undergo native-language editorial proofreading before commercial printing.
 
-Обидва PDF-видання (по 18 сторінок) завантажено й перевірено. Для перевірки цілісності використовуйте контрольні суми в корені репозиторію.
+[日本語版のご案内](../README.ja.md) · [Project overview](../README.md) · [Rights and permissions](../LICENSE.md)

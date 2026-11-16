@@ -3,7 +3,7 @@
   "version": "1.0",
   "format": "PDF",
   "page_size": "A4 portrait",
-  "status": "both editions uploaded and Git blob content verified",
+  "status": "Original and English previously verified; Japanese entry describes the supplied compilation. Verify all files against expected checksums before public release.",
   "pdfs": [
     {
       "file": "books/Paw_World_Original_v1.0.pdf",
@@ -18,6 +18,14 @@
       "pages": 18,
       "bytes": 19076513,
       "sha256": "195dd2cdba0fec200e8109062dc6797d0d130e9e6ef708b6698dc7136c8e4e8d"
+    },
+    {
+      "file": "books/Paw_World_Japanese_v1.0.pdf",
+      "edition": "Japanese / 日本語",
+      "pages": 18,
+      "bytes": 24686125,
+      "sha256": "a76b9076ef77b98360167cd1b84af76e5f5ecdf6675f54f3a1e1ba314662ae59",
+      "git_blob_sha": "354691eb9988034e9b6ddbff3abdc35118b3fad7"
     }
   ]
 }
